@@ -18,7 +18,7 @@ import javafx.stage.Stage;
 import javafx.scene.Scene;
 import javafx.scene.paint.Color;
 
-public class LandingPane extends HBox{
+public class patientlandingpage extends HBox{
 	private Label patient1;
 	private Label number1;
 	private Button message;

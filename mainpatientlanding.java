@@ -24,7 +24,7 @@ import javafx.geometry.Pos;
 import java.time.Duration;
 import java.util.ArrayList;
 import javafx.scene.control.*;
-public class Main extends Application {
+public class mainpatientlanding extends Application {
 	private TabPane tabPane;
 	private LandingPane landingPane;
 
